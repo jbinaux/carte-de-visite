@@ -1,0 +1,49 @@
+.main
+{
+  height: 500px;
+  width: 1000px;
+  border: solid;
+  position: relative;
+  top: 0;
+  left: 200px;
+}
+
+.logo
+{
+  margin: 0px;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.coordonee
+{
+  height: 300px;
+  width: 300px;
+ /* margin-left: 400px;*/
+ /* margin-top: 50px; */
+  display: inline-block;
+  position: absolute;
+  top: 100px;
+  left: 450px;
+}
+
+.coordonee h2
+{
+  text-align: center;
+}
+
+.coordonee h3
+{
+  text-align: center;
+}
+
+.social
+{
+  position: absolute;
+  top: 400px;
+  left: 50px;
+}
